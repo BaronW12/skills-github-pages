@@ -9,16 +9,10 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Create a site or blog from your GitHub repositories with GitHub_Congratulations friend, you've completed this course!_
 
-</header>
+<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
 -->
 
 ## Step 1: Enable GitHub Pages
